@@ -1,1 +1,3 @@
-# goit-advancedjs-hw-05
+## GOIT JS Advanced Homework 5
+
+[Page](https://antonchubarov.github.io/goit-advancedjs-hw-05/)
